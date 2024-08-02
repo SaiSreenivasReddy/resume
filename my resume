@@ -1,0 +1,44 @@
+{
+  "name": "Sai Sreenivas",
+  "contact_information": {
+    "email": "puttasaisreenivas2003@gmail.com",
+    "phone": "+91 9347533372",
+    "address": "Tirupati,India"
+  },
+  "summary": "A passionate, innovative, and keen interest in developing web applications with great scalability. feels more
+energizing after acquiring knowledge. inspirational and educational materials for a fruitful career expansion
+that include reaching personal growth objectives, learning, employment hunting, contentment, and business
+for leadership.",
+  "education": [
+    {
+      "degree": "Btech Computer Science",
+      "institution": "Lovely Professional University",
+      "location": "Pagwara , Punjab",
+      "graduation_year": "2025"
+    }
+  ],
+  "skills": [
+    "C , C++ , Python"
+  ],
+  "projects": [
+    {
+      "title": "Smart Home Automation System :",
+      "description": "used the Raspberry Pi and Arduino to design and build a complete smart home automation
+system. created and included actuators for control, mobile apps for remote management, and
+sensors for monitoring the surroundings. used the MQTT protocol to provide smooth device-to-
+device communication and Blink IoT to build an intuitive online dashboard.",
+      "technologies_used": [
+        "C++,Python, Arduino, Raspberry Pi, Blynk IoT , MQTT"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Python with DSA",
+      "issuing_organization": "Cipher Schools",
+      "issue_date": "January 2024"
+    }
+  ]
+}
+
+
